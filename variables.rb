@@ -13,3 +13,11 @@ weight = 170.0
 happy = true
 motivated = true
 liar = false
+
+name = "Some guy"
+my_email = "someguy@sooperdoopermail.com"
+favorite_pet = "Cat"
+
+puts name
+puts age
+puts favorite_pet
